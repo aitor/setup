@@ -35,6 +35,7 @@ brew install graphite2
 brew install gzip
 brew install harfbuzz
 brew install highlight
+brew install htop
 brew install hugo
 brew install icu4c
 brew install jpeg
@@ -107,11 +108,13 @@ brew install youtube-dl
 brew install zsh
 brew install zsh-completions
 
+brew cask install 1password
 brew cask install bartender
 brew cask install betterzipql
 brew cask install charles
 brew cask install cheatsheet
 brew cask install docker
+brew cask install dropbox
 brew cask install firefox
 brew cask install font-hack
 brew cask install fritzing
