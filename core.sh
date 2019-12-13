@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # install drivers
-brew tap caskroom/drivers
+brew tap homebrew/cask-drivers
 
 # install tools
 brew install aom
