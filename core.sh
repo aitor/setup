@@ -135,5 +135,6 @@ brew cask install quicklook-json
 brew cask install sketchup
 brew cask install skype
 brew cask install slack
+brew cask install transmission
 brew cask install visual-studio-code
 brew cask install vlc
